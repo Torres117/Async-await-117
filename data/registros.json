@@ -1,0 +1,22 @@
+ [
+    {
+        "nombre" :"Arturo",
+        "apellido": "Torres",
+        "Telefono": 7712063303
+    },
+    {
+        "nombre" :"Kirito",
+        "apellido": "Zamitiz",
+        "Telefono": 7712049303
+    },
+    {
+        "nombre" :"Edgar",
+        "apellido": "Fushiguro",
+        "Telefono": 7712063304
+    },
+    {
+        "nombre" :"Juan",
+        "apellido": "Itadori",
+        "Telefono": 7713308789
+    }
+]
